@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=candymask0712&show_icons=true&theme=radical)
+
 <!--
 **candymask0712/candymask0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=candymask0712&show_icons=true&theme=radical)
+
 
 
 - 🔭 I’m currently working on ...
