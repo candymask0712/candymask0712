@@ -1,7 +1,7 @@
 <div align="center">
 <h3>🍀 Me 🍀</h3>
-<p><a href="https://eunhee-programming.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
-<p>Hi There! I'm a frontEnd developer.</p>
+<p><a href="https://candymask0712.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p>Hi There! I'm a full-stack web developer.</p>
 <p> My main skills are HTML, CSS, JavaScript and React.</p>
 <p>I'm a persistent person, who study hard day and night for be a good developer.🥰</p>
   
