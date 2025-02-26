@@ -7,20 +7,17 @@
 
 </div>
 
+
 <!--
-**candymask0712/candymask0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :octocat: Contributions
 
-Here are some ideas to get you started:
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **react-use**
+  - (PR) 
+- **react-hook-form**
+  - (PR) [react-hook-form/react-hook-form#12622](https://github.com/react-hook-form/react-hook-form/pull/12622/)
+    - fix: add condition to prevent infinite render   
+- **TypeScript Website**
+  - (PR) [microsoft/TypeScript-Website#2840](https://github.com/microsoft/TypeScript-Website/pull/2840#issuecomment-1574670337)
+    - fix: remove-display-table for mobile device
+https://github.com/heli-os
 -->
