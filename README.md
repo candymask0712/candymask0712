@@ -15,10 +15,10 @@
 
 ### :octocat: Contributions
 
-- **react-use**
+- **React-use**
   - (PR) [streamich/react-use#2622](https://github.com/streamich/react-use/pull/2622)
     - fix: fix: Modifying the useFirstMountState code for proper functioning in React 19 strict mode
-- **react-hook-form**
+- **React-Hook-Form**
   - (PR) [react-hook-form/react-hook-form#12622](https://github.com/react-hook-form/react-hook-form/pull/12622/)
     - fix: add condition to prevent infinite render   
 - **TypeScript Website**
