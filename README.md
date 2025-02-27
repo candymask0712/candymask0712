@@ -15,7 +15,7 @@
 
 ### :octocat: Contributions
 
-- **React-use**
+- **React-Use**
   - (PR) [streamich/react-use#2622](https://github.com/streamich/react-use/pull/2622)
     - fix: fix: Modifying the useFirstMountState code for proper functioning in React 19 strict mode
 - **React-Hook-Form**
