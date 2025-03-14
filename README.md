@@ -8,7 +8,7 @@
 </div>
 
 ### 💁🏻‍♂️ Brief
-- I'm **Jun-Young**
+- I'm **JunYoung**
 - Working as **Front-end engineer** in Seoul, South Korea
 - Interested in improving the developer experience to help **focus on important goals**.
 - Enjoy **interacting with other developers** and creating various opportunities for learning.
