@@ -23,6 +23,10 @@
     - fix: setError in useEffect does not work when used inside the FormProvider context  
   - (PR) [react-hook-form/react-hook-form#12622](https://github.com/react-hook-form/react-hook-form/pull/12622/)
     - fix: add condition to prevent infinite render
+  - (PR) [react-hook-form/react-hook-form#12859](https://github.com/react-hook-form/react-hook-form/pull/12859)
+    - fix: fix: add type info for callback args in subscribe
+  - (PR) [react-hook-form/react-hook-form#12813](https://github.com/react-hook-form/react-hook-form/pull/12858)
+    - feat #12813 use stringToPath to prevent error at field name with quotes
 - **TypeScript Website**
   - (PR) [microsoft/TypeScript-Website#2840](https://github.com/microsoft/TypeScript-Website/pull/2840#issuecomment-1574670337)
     - fix: remove-display-table for mobile device
