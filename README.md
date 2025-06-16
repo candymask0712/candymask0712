@@ -23,6 +23,8 @@
     - fix: setError in useEffect does not work when used inside the FormProvider context  
   - (PR) [react-hook-form/react-hook-form#12622](https://github.com/react-hook-form/react-hook-form/pull/12622/)
     - fix: add condition to prevent infinite render
+  - (PR) [react-hook-form/react-hook-form#12738](https://github.com/react-hook-form/react-hook-form/pull/12738)
+    - fix: fix: use useIsomorphicLayoutEffect to address warning in SSR
   - (PR) [react-hook-form/react-hook-form#12859](https://github.com/react-hook-form/react-hook-form/pull/12859)
     - fix: add type info for callback args in subscribe
   - (PR) [react-hook-form/react-hook-form#12813](https://github.com/react-hook-form/react-hook-form/pull/12858)
