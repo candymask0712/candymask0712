@@ -29,9 +29,14 @@
     - fix: add type info for callback args in subscribe
   - (PR) [react-hook-form/react-hook-form#12813](https://github.com/react-hook-form/react-hook-form/pull/12858)
     - feat: use stringToPath to prevent error at field name with quotes
-- **TypeScript Website**
+  - (PR) [react-hook-form/react-hook-form#12990](https://github.com/react-hook-form/react-hook-form/pull/12990)
+    - fix: sync two defaultValues after reset with new defaultValues
+- **TypeScript Docs**
   - (PR) [microsoft/TypeScript-Website#2840](https://github.com/microsoft/TypeScript-Website/pull/2840#issuecomment-1574670337)
     - fix: remove-display-table for mobile device
+- **Next.js Docs**
+  - (PR) [vercel/next.js#82092](https://github.com/vercel/next.js/pull/82092)
+    - docs: indicate that redirect can be used in both server and client components
 
 ### 📄 Contents
 - [스크립트 툴의 장점만 모았다! zx로 업무 자동화하기 (automation with zx)](https://tech.devsisters.com/posts/the-best-way-to-write-scripts/)
