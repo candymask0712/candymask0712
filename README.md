@@ -37,6 +37,9 @@
 - **Next.js Docs**
   - (PR) [vercel/next.js#82092](https://github.com/vercel/next.js/pull/82092)
     - docs: indicate that redirect can be used in both server and client components
+- **React-Hook-Form Docs**
+  - (PR) [react-hook-form/documentation](https://github.com/react-hook-form/documentation/pull/1162)
+    - docs: correct typo issue for link formstate and formState type example
 
 ### 📄 Contents
 - [스크립트 툴의 장점만 모았다! zx로 업무 자동화하기 (automation with zx)](https://tech.devsisters.com/posts/the-best-way-to-write-scripts/)
