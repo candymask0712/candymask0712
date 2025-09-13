@@ -14,10 +14,6 @@
 - Enjoy **interacting with other developers** and creating various opportunities for learning.
 
 ### :octocat: Contributions
-
-- **React-Use**
-  - (PR) [streamich/react-use#2622](https://github.com/streamich/react-use/pull/2622)
-    - fix: fix: Modifying the useFirstMountState code for proper functioning in React 19 strict mode
 - **React-Hook-Form**
   - (PR) [react-hook-form/react-hook-form#12580](https://github.com/react-hook-form/react-hook-form/pull/12642)
     - fix: setError in useEffect does not work when used inside the FormProvider context  
@@ -31,6 +27,9 @@
     - feat: use stringToPath to prevent error at field name with quotes
   - (PR) [react-hook-form/react-hook-form#12990](https://github.com/react-hook-form/react-hook-form/pull/12990)
     - fix: sync two defaultValues after reset with new defaultValues
+- **React-Use**
+  - (PR) [streamich/react-use#2622](https://github.com/streamich/react-use/pull/2622)
+    - fix: fix: Modifying the useFirstMountState code for proper functioning in React 19 strict mode
 - **TypeScript Docs**
   - (PR) [microsoft/TypeScript-Website#2840](https://github.com/microsoft/TypeScript-Website/pull/2840#issuecomment-1574670337)
     - fix: remove-display-table for mobile device
