@@ -27,6 +27,8 @@
     - feat: use stringToPath to prevent error at field name with quotes
   - (PR) [react-hook-form/react-hook-form#12990](https://github.com/react-hook-form/react-hook-form/pull/12990)
     - fix: sync two defaultValues after reset with new defaultValues
+  - (PR) [react-hook-form/react-hook-form#13056](https://github.com/react-hook-form/react-hook-form/pull/13056)
+    - fix: only excute trigger fuction when deps has a valid array
 - **React-Use**
   - (PR) [streamich/react-use#2622](https://github.com/streamich/react-use/pull/2622)
     - fix: fix: Modifying the useFirstMountState code for proper functioning in React 19 strict mode
