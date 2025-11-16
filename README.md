@@ -32,13 +32,13 @@
 - **React-Use**
   - (PR) [streamich/react-use#2622](https://github.com/streamich/react-use/pull/2622)
     - fix: fix: Modifying the useFirstMountState code for proper functioning in React 19 strict mode
-- **TypeScript Docs**
+- **TypeScript Website**
   - (PR) [microsoft/TypeScript-Website#2840](https://github.com/microsoft/TypeScript-Website/pull/2840#issuecomment-1574670337)
     - fix: remove-display-table for mobile device
-- **Next.js Docs**
+- **Next.js Website**
   - (PR) [vercel/next.js#82092](https://github.com/vercel/next.js/pull/82092)
     - docs: indicate that redirect can be used in both server and client components
-- **React-Hook-Form Docs**
+- **React-Hook-Form Website**
   - (PR) [react-hook-form/documentation](https://github.com/react-hook-form/documentation/pull/1162)
     - docs: correct typo issue for link formstate and formState type example
 
