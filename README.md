@@ -1,5 +1,5 @@
 <!--  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcandymask0712%2Fcandymask0712%2Fblob%2Fmain%2FREADME.md&count_bg=%23BA46F3&title_bg=%23000000&icon=&icon_color=%23D00000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
-  
+
 #
 <div align="center">
 <h4> Tech Stack </h4>
@@ -15,34 +15,50 @@
 
 ### :octocat: Contributions
 - **React-Hook-Form**
-  - (PR) [react-hook-form/react-hook-form#12580](https://github.com/react-hook-form/react-hook-form/pull/12642)
-    - fix: setError in useEffect does not work when used inside the FormProvider context  
-  - (PR) [react-hook-form/react-hook-form#12622](https://github.com/react-hook-form/react-hook-form/pull/12622/)
-    - fix: add condition to prevent infinite render
+  - (PR) [react-hook-form/react-hook-form#12622](https://github.com/react-hook-form/react-hook-form/pull/12622)
+    - fix: add a condition to prevent infinite renders
+  - (PR) [react-hook-form/react-hook-form#12642](https://github.com/react-hook-form/react-hook-form/pull/12642)
+    - fix: make setError in useEffect work inside the FormProvider context
   - (PR) [react-hook-form/react-hook-form#12738](https://github.com/react-hook-form/react-hook-form/pull/12738)
-    - fix: fix: use useIsomorphicLayoutEffect to address warning in SSR
+    - fix: use useIsomorphicLayoutEffect to address warnings in SSR
+  - (PR) [react-hook-form/react-hook-form#12858](https://github.com/react-hook-form/react-hook-form/pull/12858)
+    - feat: use stringToPath for field names containing quotes
   - (PR) [react-hook-form/react-hook-form#12859](https://github.com/react-hook-form/react-hook-form/pull/12859)
-    - fix: add type info for callback args in subscribe
-  - (PR) [react-hook-form/react-hook-form#12813](https://github.com/react-hook-form/react-hook-form/pull/12858)
-    - feat: use stringToPath to prevent error at field name with quotes
+    - fix: add type information for callback arguments in subscribe
   - (PR) [react-hook-form/react-hook-form#12990](https://github.com/react-hook-form/react-hook-form/pull/12990)
-    - fix: sync two defaultValues after reset with new defaultValues
+    - fix: sync defaultValues after reset with new default values
   - (PR) [react-hook-form/react-hook-form#13056](https://github.com/react-hook-form/react-hook-form/pull/13056)
-    - fix: only excute trigger fuction when deps has a valid array
-  - (PR) [react-hook-form/react-hook-form#13056](https://github.com/react-hook-form/react-hook-form/pull/13337)
-    - feat: add opt-in delayError option for setValue
+    - fix: run trigger only when deps is a valid array
+  - (PR) [react-hook-form/react-hook-form#13322](https://github.com/react-hook-form/react-hook-form/pull/13322)
+    - fix: correct formState.isValid when Controller re-mounts
+  - (PR) [react-hook-form/react-hook-form#13337](https://github.com/react-hook-form/react-hook-form/pull/13337)
+    - feat: add an opt-in delayError option for setValue
+  - (PR) [react-hook-form/react-hook-form#13613](https://github.com/react-hook-form/react-hook-form/pull/13613)
+    - fix: reset internal errors when clearErrors() is called without arguments
+  - (PR) [react-hook-form/react-hook-form#13615](https://github.com/react-hook-form/react-hook-form/pull/13615)
+    - refactor(types): extract the shared ErrorNamespacePath type
+  - (PR) [react-hook-form/react-hook-form#13624](https://github.com/react-hook-form/react-hook-form/pull/13624)
+    - test: cover Blob in FieldErrors type tests
+  - (PR) [react-hook-form/react-hook-form#13632](https://github.com/react-hook-form/react-hook-form/pull/13632)
+    - fix(types): resolve getFieldState error types from field paths
+  - (PR) [react-hook-form/react-hook-form#13639](https://github.com/react-hook-form/react-hook-form/pull/13639)
+    - feat: add getErrors to read form errors without subscription
 - **React-Use**
   - (PR) [streamich/react-use#2622](https://github.com/streamich/react-use/pull/2622)
-    - fix: fix: Modifying the useFirstMountState code for proper functioning in React 19 strict mode
+    - fix: make useFirstMountState work correctly in React 19 Strict Mode
 - **TypeScript Website**
-  - (PR) [microsoft/TypeScript-Website#2840](https://github.com/microsoft/TypeScript-Website/pull/2840#issuecomment-1574670337)
-    - fix: remove-display-table for mobile device
+  - (PR) [microsoft/TypeScript-Website#2840](https://github.com/microsoft/TypeScript-Website/pull/2840)
+    - fix: remove display: table on mobile devices
 - **Next.js Website**
   - (PR) [vercel/next.js#82092](https://github.com/vercel/next.js/pull/82092)
-    - docs: indicate that redirect can be used in both server and client components
+    - docs: clarify that redirect can be used in both Server and Client Components
 - **React-Hook-Form Website**
-  - (PR) [react-hook-form/documentation](https://github.com/react-hook-form/documentation/pull/1162)
-    - docs: correct typo issue for link formstate and formState type example
+  - (PR) [react-hook-form/documentation#1162](https://github.com/react-hook-form/documentation/pull/1162)
+    - docs: correct the link between formState and its type example
+  - (PR) [react-hook-form/documentation#1227](https://github.com/react-hook-form/documentation/pull/1227)
+    - docs: fix the getValues props table
+  - (PR) [react-hook-form/documentation#1228](https://github.com/react-hook-form/documentation/pull/1228)
+    - docs: add getErrors API documentation
 
 ### 📄 Contents
 - [스크립트 툴의 장점만 모았다! zx로 업무 자동화하기 (automation with zx)](https://tech.devsisters.com/posts/the-best-way-to-write-scripts/)
